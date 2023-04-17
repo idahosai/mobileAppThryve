@@ -48,6 +48,7 @@ public class AddEmploymentAppointmentFragment extends Fragment {
     private EmploymentConsultantForm newEmpForm;
     private Appointment newAppt;
 
+
     private EditText editTextEmpTitle;
     private EditText editTextEmpDescription;
     private EditText editTextEmpDate;
